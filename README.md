@@ -2,7 +2,6 @@
 
 An autonomous AI agent that takes a project brief and produces everything a software team needs to start building — tech stack, project structure, tech spec, and timeline estimate — in under 2 minutes.
 
-> Built for Monterail — a Wrocław-based software house that ships diverse products from legacy enterprise to AI-first MVPs.
 
 ## What It Does
 

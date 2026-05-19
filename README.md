@@ -69,7 +69,7 @@ cd frontend && npm run dev
 
 ## Why React (not Vanilla JS)
 
-All other projects in this portfolio use Vanilla JS. This one uses React — specifically because Monterail requires React/Vue experience. The component structure demonstrates:
+All other projects in this portfolio use Vanilla JS. This one uses React. The component structure demonstrates:
 - `useState` / `useEffect` hooks
 - Component composition (Form → Results → History → Stats)
 - Conditional rendering and loading states
